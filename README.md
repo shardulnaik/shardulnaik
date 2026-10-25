@@ -22,8 +22,8 @@ Architecting AI workflows and RAG agents, building high-throughput REST APIs wit
 ![Excel](https://img.shields.io/badge/excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
 
 ### 📊 GitHub Stats:
 [![Shardul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shardulnaik&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
