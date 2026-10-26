@@ -22,7 +22,7 @@ Architecting AI workflows and RAG agents, building high-throughput REST APIs wit
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ![JWT](https://img.shields.io/badge/JWT-yellow?style=for-the-badge&logo=JSON%20web%20tokens)
-![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
+![Pytest](https://img.shields.io/badge/docker-%23ffffff.svg?style=for-the-badge&logo=docker&logoColor=2f9fe3)
 
 ### 📊 GitHub Stats:
 [![Shardul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shardulnaik&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
