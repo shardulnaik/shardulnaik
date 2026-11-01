@@ -25,8 +25,15 @@ Architecting AI workflows and RAG agents, building high-throughput REST APIs wit
 ![Pytest](https://img.shields.io/badge/docker-%23ffffff.svg?style=for-the-badge&logo=docker&logoColor=2f9fe3)
 
 ### 📊 GitHub Stats:
-![Shardul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shardulnaik&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shardulnaik&layout=compact&theme=tokyonight)
+### 📊 GitHub Stats:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=shardulnaik&show_icons=true&theme=tokyonight&v=1" alt="Shardul's GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shardulnaik&layout=compact&theme=tokyonight&v=1" alt="Top Langs" />
+</p>
 
 > *"We are transitioning from telling computers how to solve a problem, to telling them what problem to solve."*  
 > — **Andrej Karpathy**
