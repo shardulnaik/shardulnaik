@@ -26,7 +26,7 @@ Architecting AI workflows and RAG agents, building high-throughput REST APIs wit
 
 ### 📊 GitHub Stats:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shardul-naik-13550a240)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shardul-naik-13550a240)
 
 > *"We are transitioning from telling computers how to solve a problem, to telling them what problem to solve."*  
 > — **Andrej Karpathy**
