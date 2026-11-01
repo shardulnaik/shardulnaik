@@ -24,9 +24,11 @@ Architecting AI workflows and RAG agents, building high-throughput REST APIs wit
 ![JWT](https://img.shields.io/badge/JWT-yellow?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Pytest](https://img.shields.io/badge/docker-%23ffffff.svg?style=for-the-badge&logo=docker&logoColor=2f9fe3)
 
-### 📊 GitHub Stats:
+### 📌 More Info:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shardul-naik-13550a240)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/SeemsToBeAlpha/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-171515?style=flat&logo=vercel&logoColor=white)](#)
 
 > *"We are transitioning from telling computers how to solve a problem, to telling them what problem to solve."*  
 > — **Andrej Karpathy**
